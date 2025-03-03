@@ -29,10 +29,3 @@ a {
 a:hover {
     color: #EF4346 !important; /* Soft red */
 }
-
-.center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}

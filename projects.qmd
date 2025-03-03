@@ -4,10 +4,20 @@ title: "Projects"
 
 ## Freshman Year
 
-##### Analyzing McDonald's Nutrition in R 
-
-A cost-benefit analysis using linear regression on McDonald's products to ascertain the most cost-effective products to purchase while still considering nutrition.
+**Analyzing McDonald's Nutrition in R -** A cost-benefit analysis using linear regression on McDonald's products to ascertain the most cost-effective products to purchase while still considering nutrition.
 
 ## Sophomore Year
 
+**Image Classification with Galaxy Zoo in Python -** Classified various images from the Galaxy Zoo data set using KNN, logistic regression, naive bayes, and neural network models in an attempt to find the most accurate model.
+
+**Multiple Linear Regression Analysis of GDP Against Economic Indicators in R -** Considered the impact of median sale prices of houses, personal consumption expenditures, federal expenditures on interest payments, and federal debt on overall GDP.
+
+**The Effects of Acute Cardiovascular Exercise on Memory using RCBD in R -** Used an online "island simulator" to study the impacts of various jogging duration on length of time taken to complete a memory game.
+
 ## Junior Year
+
+**Sentiment Analysis on IMDB Reviews in Python -** Text mining and machine learning techniques applied to a data set containing IMDB reviews to ascertain which words were likely to indicate a positive/negative review, and attempting to use multiple models (logistic regression, multinomial naive bayes, and support vector machine) to accurately predict if a review is positive or negative.
+
+**Predictive Analysis of Obesity Status Outcome in R -** Used backwards BIC for variable selection and conducted model fitting to arrive at a final random forest model in order to accurately predict the outcome of the obesity status variable.
+
+**The Impact of COVID-19 Lockdown Policies on Consumer Spending in R -** Investigated the impact of COVID-19 lockdown policies on consumer spending (overall, on arts and entertainment, and on grocery/food) in order to gain insight on how economic policy impacts consumer behaviors)

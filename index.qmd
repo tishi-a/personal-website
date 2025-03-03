@@ -2,7 +2,7 @@
 title: "Tishi Avvaru"
 about:
   template: broadside
-  image: tishi.png  {.center}
+  image: tishi.png 
   links:
     - icon: linkedin
       text: LinkedIn

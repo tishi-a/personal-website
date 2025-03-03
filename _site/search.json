@@ -32,27 +32,27 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Analyzing McDonald’s Nutrition in R"
+    "text": "Analyzing McDonald’s Nutrition in R - A cost-benefit analysis using linear regression on McDonald’s products to ascertain the most cost-effective products to purchase while still considering nutrition."
   },
   {
     "objectID": "projects.html#freshman-year",
     "href": "projects.html#freshman-year",
     "title": "Projects",
     "section": "",
-    "text": "Analyzing McDonald’s Nutrition in R"
+    "text": "Analyzing McDonald’s Nutrition in R - A cost-benefit analysis using linear regression on McDonald’s products to ascertain the most cost-effective products to purchase while still considering nutrition."
   },
   {
     "objectID": "projects.html#sophomore-year",
     "href": "projects.html#sophomore-year",
     "title": "Projects",
     "section": "Sophomore Year",
-    "text": "Sophomore Year"
+    "text": "Sophomore Year\nImage Classification with Galaxy Zoo in Python - Classified various images from the Galaxy Zoo data set using KNN, logistic regression, naive bayes, and neural network models in an attempt to find the most accurate model.\nMultiple Linear Regression Analysis of GDP Against Economic Indicators in R - Considered the impact of median sale prices of houses, personal consumption expenditures, federal expenditures on interest payments, and federal debt on overall GDP.\nThe Effects of Acute Cardiovascular Exercise on Memory using RCBD in R - Used an online “island simulator” to study the impacts of various jogging duration on length of time taken to complete a memory game."
   },
   {
     "objectID": "projects.html#junior-year",
     "href": "projects.html#junior-year",
     "title": "Projects",
     "section": "Junior Year",
-    "text": "Junior Year"
+    "text": "Junior Year\nSentiment Analysis on IMDB Reviews in Python - Text mining and machine learning techniques applied to a data set containing IMDB reviews to ascertain which words were likely to indicate a positive/negative review, and attempting to use multiple models (logistic regression, multinomial naive bayes, and support vector machine) to accurately predict if a review is positive or negative.\nPredictive Analysis of Obesity Status Outcome in R - Used backwards BIC for variable selection and conducted model fitting to arrive at a final random forest model in order to accurately predict the outcome of the obesity status variable.\nThe Impact of COVID-19 Lockdown Policies on Consumer Spending in R - Investigated the impact of COVID-19 lockdown policies on consumer spending (overall, on arts and entertainment, and on grocery/food) in order to gain insight on how economic policy impacts consumer behaviors)"
   }
 ]
