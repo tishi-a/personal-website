@@ -10,8 +10,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/tishi-a
-    - text: Email
-      url: "tishitha@g.ucla.edu"
+    - icon: envelope
+      text: Email
+      href: "mailto:tishitha@g.ucla.edu"
 ---
 
 Tishi Avvaru is a third year Statistics and Data science student at UCLA who is also double-minoring in History and Ancient Near Eastern Studies & Egyptology.
