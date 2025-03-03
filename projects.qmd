@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+## Freshman Year
+
+Analyzing McDonald's Nutrition in R
+
+## Sophomore Year
+
+## Junior Year

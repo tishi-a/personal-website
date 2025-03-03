@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+Tishi Avvaru is a current third year at UCLA who hails from the faraway land of St. Louis, Missouri. She discovered her passion of being organized to a neurotic level at a very young age, eventually pushing her to overuse spreadsheets in high school and consider a path in Data Science.
 
-```{r}
-1 + 1
-```
+Her passions lie in Ancient History. She is pursuing a double minor in History and Ancient Near Eastern Studies & Egyptology, with a focus on Mesopotamia. Her area of interest centers on textual and artistic evidence of external communications, as well as prehistory. She would love to pursue digital archaeology in regards to classification of artifacts.
+
+Tishi's other main interest in Theatre Tech, which she has been doing since age 13. She has never worked professionally, preferring the quaintness of student theatre to anything formal. She is currently a Producer for Lapu, the Coyote that Cares Theatre Company at UCLA.
