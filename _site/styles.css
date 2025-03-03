@@ -1,1 +1,38 @@
 /* css styles */
+
+/* Navbar background color */
+.navbar {
+    background-color: #F5CDC5 !important;  /* Soft red */
+}
+
+/* Navbar link colors */
+.navbar-nav .nav-link {
+    color: #F5817A !important; /* Peach */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #EF4346 !important; /* Light coral */
+}
+
+/* Body background color */
+body {
+    background-color: #F9E5D8 !important; /* Soft warm tone */
+    font-family: "Garamond", "Georgia", serif !important; /* Ensure Garamond is applied */
+    color: #EC8366
+}
+
+/* General link color */
+a {
+    color: #F5817A !important; /* Coral */
+}
+
+a:hover {
+    color: #EF4346 !important; /* Soft red */
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

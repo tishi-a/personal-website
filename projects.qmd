@@ -4,7 +4,9 @@ title: "Projects"
 
 ## Freshman Year
 
-Analyzing McDonald's Nutrition in R
+##### Analyzing McDonald's Nutrition in R 
+
+A cost-benefit analysis using linear regression on McDonald's products to ascertain the most cost-effective products to purchase while still considering nutrition.
 
 ## Sophomore Year
 

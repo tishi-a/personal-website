@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Tishi Avvaru",
     "section": "",
-    "text": "Tishi Avvaru is a third year Statistics and Data science student at UCLA who is also double-minoring in History & Ancient Near Eastern Studies and Egyptology. Download my resume! ## Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Sept 2022 - December 2025"
+    "text": "Tishi Avvaru is a third year Statistics and Data science student at UCLA who is also double-minoring in History and Ancient Near Eastern Studies & Egyptology.\nDownload my resume here!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Tishi Avvaru is a current third year at UCLA who hails from the faraway land of St. Louis, Missouri. She discovered her passion of being organized to a neurotic level at a very young age, eventually pushing her to overuse spreadsheets in high school and consider a path in Data Science.\nHer passions lie in Ancient History. She is pursuing a double minor in History and Ancient Near Eastern Studies & Egyptology, with a focus on Mesopotamia. Her area of interest centers on textual and artistic evidence of external communications, as well as prehistory. She would love to pursue digital archaeology in regards to classification of artifacts.\nTishi’s other main interest in Theatre Tech, which she has been doing since age 13. She has never worked professionally, preferring the quaintness of student theatre to anything formal. She is currently a Producer for Lapu, the Coyote that Cares Theatre Company at UCLA."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Tishi Avvaru",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Sept 2022 - December 2025"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA | B.S. in Statistics and Data Science | Sept 2022 - December 2025"
   },
   {
     "objectID": "index.html#experience",
@@ -26,5 +26,33 @@
     "title": "Tishi Avvaru",
     "section": "Experience",
     "text": "Experience\nHammer Museum | IT | January 2024 - present\nEngineering IV, University of California, Los Angeles | Graduate Electrical and Computer Engineering HR and Student Services | October 2022 - present\nLapu, the Coyote that Cares Theatre Company | Producer | June 2024 - present\nKakao Chocolate | Packaging/Customer Service | June 2024 - September 2024\nHousing and Hospitality, University of California, Los Angeles | Front Desk Attendant | June 2023 - August 2023\nSimply Math and Reading | Tutor/Grader | February 2020 - September 2022, December 2022\nCivitas STL | Intern | June 2021 - August 2021"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzing McDonald’s Nutrition in R"
+  },
+  {
+    "objectID": "projects.html#freshman-year",
+    "href": "projects.html#freshman-year",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzing McDonald’s Nutrition in R"
+  },
+  {
+    "objectID": "projects.html#sophomore-year",
+    "href": "projects.html#sophomore-year",
+    "title": "Projects",
+    "section": "Sophomore Year",
+    "text": "Sophomore Year"
+  },
+  {
+    "objectID": "projects.html#junior-year",
+    "href": "projects.html#junior-year",
+    "title": "Projects",
+    "section": "Junior Year",
+    "text": "Junior Year"
   }
 ]

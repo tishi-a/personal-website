@@ -2,7 +2,7 @@
 title: "Tishi Avvaru"
 about:
   template: broadside
-  image: tishi.png
+  image: tishi.png  {.center}
   links:
     - icon: linkedin
       text: LinkedIn
@@ -14,11 +14,13 @@ about:
       url: "tishitha@g.ucla.edu"
 ---
 
-Tishi Avvaru is a third year Statistics and Data science student at UCLA who is also double-minoring in History & Ancient Near Eastern Studies and Egyptology. Download [my resume](/tech resume.pdf)!
+Tishi Avvaru is a third year Statistics and Data science student at UCLA who is also double-minoring in History and Ancient Near Eastern Studies & Egyptology.
+
+Download my resume [here](/tech resume.pdf)!
+
 ## Education
 
-University of California, Los Angeles \| Los Angeles, CA
-B.S. in Statistics and Data Science \| Sept 2022 - December 2025
+University of California, Los Angeles \| Los Angeles, CA \| B.S. in Statistics and Data Science \| Sept 2022 - December 2025
 
 ## Experience
 
